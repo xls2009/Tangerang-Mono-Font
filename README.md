@@ -8,3 +8,8 @@ Tangerang Mono font is officially licensed under SIL Open Font License 1.1 - You
 ## Try these fonts
 - [Tangerang Mono Regular](https://fontstruct.com/fontstructions/show/2918059)
 - [Tangerang Mono Bold](https://fontstruct.com/fontstructions/show/2918320)
+
+## License
+SIL Open Font License v1.1
+
+Tangerang Mono font is designed and built in [FontStruct.](https://fontstruct.com/)
